@@ -5,17 +5,19 @@ menu:
   - text: About Us
     links:
       - text: Our Organization
-        url: /about
+        url: /our-organization
       - text: Mission
-        url: /about#mission
+        url: /mission
       - text: History
-        url: /about#history
+        url: /history
       - text: Board of Directors
-        url: /about#board-of-directors
+        url: /board-of-directors
       - text: Projects
-        url: /about#projects
+        url: /projects
       - text: Contact Us
-        url: /about#contact-us
+        url: /contact-us
+      - text: In The News
+        url: /in-the-news
   - text: Safe Streets Now
     links:
       - text: Why it Matters

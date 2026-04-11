@@ -128,7 +128,59 @@ collections:
               - { label: "CTA Link", name: "ctaLink", widget: "string" }
 
   # Main Navigation Sections
-  # Collection: Safe Streets Now, Advocacy, Get Involved, Services & Support
+  # Collection: About Us, Safe Streets Now, Advocacy, Get Involved, Services & Support
+  - name: "about us pages"
+    label: "About Us Pages"
+    files:
+      - file: "content/our-organization.md"
+        label: "Our Organization"
+        name: "our-organization"
+        preview_path: "our-organization"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/mission.md"
+        label: "Mission"
+        name: "mission"
+        preview_path: "mission"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/history.md"
+        label: "History"
+        name: "history"
+        preview_path: "history"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/board-of-directors.md"
+        label: "Board Of Directors"
+        name: "board-of-directors"
+        preview_path: "board-of-directors"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/projects.md"
+        label: "Projects"
+        name: "projects"
+        preview_path: "projects"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/contact-us.md"
+        label: "Contact Us"
+        name: "contact-us"
+        preview_path: "contact-us"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/in-the-news.md"
+        label: "In The News Page"
+        name: "in-the-news"
+        preview_path: "in-the-news"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
   - name: "safe streets now pages"
     label: "Safe Streets Now Pages"
     files:
@@ -279,20 +331,6 @@ collections:
   - name: "organization pages"
     label: "Organization Pages"
     files:
-      - file: "content/about.md"
-        label: "About Page"
-        name: "about"
-        preview_path: "about"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "content", widget: "markdown" }
-      - file: "content/contact-us.md"
-        label: "Contact Us Page"
-        name: "contact-us"
-        preview_path: "contact-us"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "content", widget: "markdown" }
       - file: "content/email-signup.md"
         label: "Email Signup Page"
         name: "email-signup"
