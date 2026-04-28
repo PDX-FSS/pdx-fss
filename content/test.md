@@ -8,6 +8,9 @@ content: >-
   # Test
 
 
+  Test update
+
+
   This is a test page, you can use it to test out editing pages and seeing how your changes look once published. It uses markdown as syntax and can run HTML too. You can have as much content here as you want, so feel free to leave samples here for reference, or remove them if they won't be needed again.
 
 
