@@ -17,8 +17,8 @@ cardData:
     ctaLink: /donate
   - image: /images/uploads/take-action.jpg
     heading: Take Action
-    text: There are many many ways to get involved. Please join us in working for
-      safe streets for all.
+    text: There are many many ways to help and get involved. Please join us in
+      fighting for safe streets for all.
     cta: Learn More
     ctaLink: /why-it-matters
   - image: /images/remembrance.jpg
