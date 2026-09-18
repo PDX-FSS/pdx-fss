@@ -20,7 +20,7 @@ cardData:
     text: There are many many ways to help and get involved. Please join us in
       fighting for safe streets for all.
     cta: Learn More
-    ctaLink: /why-it-matters
+    ctaLink: /volunteer
   - image: /images/uploads/world-day-of-remembrance-10.jpg
     heading: World Day of Remembrance
     text: Honoring all who have lost their lives or have been directly impacted by
