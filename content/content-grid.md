@@ -21,7 +21,7 @@ cardData:
       fighting for safe streets for all.
     cta: Learn More
     ctaLink: /why-it-matters
-  - image: /images/remembrance.jpg
+  - image: /images/uploads/world-day-of-remembrance-10.jpg
     heading: World Day of Remembrance
     text: Honoring all who have lost their lives or have been directly impacted by
       roadway crashes. This global UN Sponsored Day of Remembrance acknowledges
