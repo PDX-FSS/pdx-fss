@@ -15,10 +15,10 @@ cardData:
       appreciate you support.  "
     cta: Support Us
     ctaLink: /donate
-  - image: /images/uploads/world-day-of-remembrance-10.jpg
-    heading: Our Mission
-    text: Portland Families for Safe Streets advocates for life-saving changes
-      throughout our transportation system that will prevent crashes.
+  - image: /images/uploads/take-action.jpg
+    heading: Take Action
+    text: There are many many ways to get involved. Please join us in working for
+      safe streets for all.
     cta: Learn More
     ctaLink: /why-it-matters
   - image: /images/remembrance.jpg
