@@ -19,7 +19,7 @@ content: >-
   Our monthly meetings are part community gathering and part working meeting—a place to connect with others, learn about our current work, and find ways to participate.
 
 
-  **Learn more and join us →**
+  **[Learn more and join us](/contact-us)**
 
 
   ## Speak Up for Safer Streets
