@@ -1,13 +1,13 @@
 ---
 title: Projects
 content: >-
-  # Projects
+  ## Memorials & Remembrance
 
 
-  ## Memorials
+  Behind every traffic death is a person, a family, and a community. Portland Families for Safe Streets works to ensure that people killed in traffic crashes are remembered—not simply counted.
 
 
-  Portland Families for Safe Streets honors road-traffic victims in numerous ways. In addition to our growing on-line memorial, we place signs at crash sites and install ghost bikes. 
+  Our remembrance work includes the Portland Victims' Memorial, memorial signs at crash sites, ghost bikes, and Portland's annual observance of World Day of Remembrance for Road Traffic Victims.
 
 
   * [2024 Memorial Sign Project](<>)
@@ -17,12 +17,14 @@ content: >-
   * [Ghost Bike Installation for Jason Ruhmshottel](<>)
 
 
-
   ## World Day of Remembrance for Road Traffic Victims
 
 
-  Each year, on the third Sunday in November people gather in cities around the world to acknowledge the widespread suffering inflicted on road-traffic victims, their families, and communities. This global, UN-sponsored Day of Remembrance supports road-traffic victims and provides an opportunity to demonstrate the enormous scale and impact of road violence and call for coordinated action to stop the needless violence. 
+  Each November, Portland Families for Safe Streets joins communities around the world in observing World Day of Remembrance for Road Traffic Victims.
 
 
-  FSS-PDX organizes the Portland WDOR event each year. Contact us at info@PDXFSS.org to learn more and get involved.
+  We gather to remember people killed and seriously injured in traffic crashes, stand with their families and communities, and call for action to prevent future tragedies.
+
+
+  Portland Families for Safe Streets organizes the local observance each year. FSS-PDX organizes the Portland WDOR event each year. Contact us at info@PDXFSS.org to learn more and get involved.
 ---
