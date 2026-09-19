@@ -24,7 +24,7 @@ menu:
         url: /why-it-matters
       - text: Our Approach
         url: /our-approach
-      - text: Dangerous Areas
+      - text: High Crash Corridor
         url: /dangerous-areas
       - text: Remembering Victims
         url: /victims
