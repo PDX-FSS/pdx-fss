@@ -55,10 +55,10 @@ content: >-
   Families for Safe Streets PDX maintains the Portland Victims' Memorial and works on memorial signs, ghost bikes, and Portland's annual World Day of Remembrance for Road Traffic Victims.
 
 
-  **Visit the Victims' Memorial →**
+  **[Visit the Victims' Memorial](/victims)**
 
 
-  **Learn about World Day of Remembrance →**
+  **[Learn about World Day of Remembrance](/remember)**
 
 
   ## Stay Connected
