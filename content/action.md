@@ -31,7 +31,7 @@ content: >-
   Throughout the year, Families for Safe Streets PDX advocates for safer street design, effective transportation policies, and legislation that can save lives.
 
 
-  **See our current policy and legislative priorities →**
+  **[See our current policy and legislative priorities](/legislative)**
 
 
   ## Volunteer
@@ -43,7 +43,7 @@ content: >-
   You don't need to be a transportation expert. If you care about safer streets, we would be glad to have you involved.
 
 
-  **Explore volunteer opportunities →**
+  **[Explore volunteer opportunities](/volunteer)**
 
 
   ## Remember
