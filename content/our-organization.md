@@ -7,11 +7,11 @@ content: >-
   Portland Families for Safe Streets is a nonprofit organization made up of people who have been directly affected by traffic violence and allies who share our commitment to safer streets.
 
 
-  Many of our members have lost loved ones or suffered life-changing injuries in traffic crashes. We bring those experiences into our advocacy work to prevent future tragedies, while offering support and community to others whose lives have been changed by traffic violence.
+  Many of our members have lost loved ones or suffered life-changing injuries in traffic crashes. We bring those experiences into our advocacy work to prevent future tragedies and to ensure that the voices of victims and their families are heard. 
 
 
-  We advocate for safer streets and a transportation system that ensure everyone can travel safely without fear of injury or death. Our work includes partnering with local and state leaders, supporting life-saving policies and legislation, calling attention to dangerous roadway design, and ensuring that the voices of crash victims and their families are heard.
+  We advocate for life-saving changes to our transportation system by working and partnering with local and state leaders, supporting effective policies and legislation, and calling attention to dangerous roadway design. We also honor people whose lives have been lost through our memorial projects and connect people affected by traffic violence with support and resources available through National Families for Safe Streets.
 
 
-  Whether you have been personally affected by traffic violence or simply believe that everyone deserves to travel safely, you are welcome in our community.
+  Our monthly meetings bring together people personally affected by traffic violence and others committed to safer streets. Whether you have been directly impacted or want to help prevent future tragedies, you are welcome to join us.
 ---
