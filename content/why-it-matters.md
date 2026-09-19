@@ -4,11 +4,17 @@ content: >-
   # Why It Matters
 
 
-  Every day, more than 100 lives are lost on U.S. roads, and thousands more are left with life-changing, debilitating, injuries. The National Safety Council (NSC) reports that motor vehicle crashes killed [44,762 people](https://injuryfacts.nsc.org/motor-vehicle/overview/introduction/?utm_source=chatgpt.com) in the United States in 2023, an average of 123 people killed every day. Beyond these tragedies, approximately 5.1 million Americans sustained injuries severe enough to require medical treatment, ranging from traumatic brain and spinal cord injuries to amputations, chronic pain, sensory loss, and long-term disability, of disrupting or ending their active work life and ability to live independently. The United States has vast resource and wealth, yet has [far worse traffic safety](https://www.cdc.gov/mmwr/volumes/71/wr/mm7126a1.htm?s_cid=mm7126a1_w) outcomes than its peer nations. This reveals a deep and systemic failure to protect road users.
+  Every day, people across the United States are killed or seriously injured in traffic crashes. In 2023, the National Safety Council estimated that 44,762 people died in motor-vehicle crashes, an average of more than 120 people every day. Another 5.1 million people suffered injuries that required medical attention.
 
 
-  These national trends are mirrored in the city of Portland where well over 540 people have lost their lives and countless more have suffered debilitating or life-altering injury since January 1, 2016. The scope of this loss of life is unimaginable in and of itself; however, a true accounting of the cost of road violence must include the life-sentences of grief inflicted on the victim's family, friends, and community as well as the lost contributions the victim would have made in their life. 
+  Portland is not immune. Hundreds of people have been killed on Portland streets over the past decade, and many more have suffered serious, life-changing injuries. Behind every number is a person, families, friends, and communities whose lives may be changed forever.
 
 
-  Crashes are preventable. They are not unavoidable "accidents." The systemic issues that cause road fatalities have proven solutions. No death or life altering injury in a traffic crash is acceptable.
+  Traffic deaths and serious injuries are preventible. The way we design our streets, set speeds, build vehicles, establish transportation policies, and respond to dangerous behavior can reduce both the likelihood of crashes and the severity of their consequences.
+
+
+  That is why Families for Safe Streets rejects the idea that traffic deaths are simply unfortunate “accidents.” We believe no one should lose their life or suffer a life-altering injury simply because they are walking, biking, driving, using a mobility device, or otherwise traveling through their community.
+
+
+  Traffic violence is preventable. Safer streets are possible.
 ---
