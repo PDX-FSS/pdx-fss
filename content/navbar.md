@@ -36,12 +36,10 @@ menu:
         url: /volunteer
       - text: Policy and Legislation
         url: /legislation
-  - text: Services & Support
+  - text: Get Support
     links:
       - text: Get Support
         url: /get-support
-      - text: Peer Mentorship
-        url: /peer-mentorship
   - text: Remember
     links:
       - text: Victims' Memorial
