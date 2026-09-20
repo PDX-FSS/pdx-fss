@@ -28,12 +28,6 @@ menu:
         url: /dangerous-areas
       - text: Hot Topics
         url: /hot-topics
-  - text: Advocacy
-    links:
-      - text: 2026 Legislative Priorities
-        url: /legislation
-      - text: Partnerships
-        url: /partners
   - text: Get Involved
     links:
       - text: Take Action
