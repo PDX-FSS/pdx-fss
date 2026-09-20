@@ -12,6 +12,8 @@ menu:
         url: /history
       - text: Board of Directors
         url: /board-of-directors
+      - text: Our Partners
+        url: /partners
       - text: Contact Us
         url: /contact-us
       - text: In The News
@@ -38,6 +40,8 @@ menu:
         url: /action
       - text: Volunteer Opportunities
         url: /volunteer
+      - text: Policy and Legislation
+        url: /legislation
   - text: Services & Support
     links:
       - text: Get Support
