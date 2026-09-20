@@ -4,7 +4,31 @@ content: >-
   # Get Support
 
 
-  If you have been directly impacted by road violence, Families for Safe Streets National offers extensive support resources and opportunities to connect with others.
+  If you or someone you care about has been affected by a traffic crash, you do not have to navigate the aftermath alone.
+
+
+  Families for Safe Streets PDX connects people impacted by traffic violence with community, remembrance opportunities, and support resources. We can also help direct you to resources available through **Families for Safe Streets National**, including opportunities to connect with others who have experienced similar loss or life-changing injury.
+
+
+  ## Support Through Families for Safe Streets National
+
+
+  Families for Safe Streets National offers resources for people who have lost a loved one or experienced serious injury in a traffic crash. This includes peer connection, information, and other forms of support for individuals and families affected by traffic violence.
+
+
+  **[View Families for Safe Streets National's support resources.](https://www.familiesforsafestreets.org/support)**
+
+
+  ## Connect with Families for Safe Streets PDX
+
+
+  Our local community includes people personally affected by traffic violence as well as others working to prevent future deaths and serious injuries.
+
+
+  You are welcome to contact us if you would like to learn more about our meetings, memorial projects, advocacy work, or ways to connect with others in the Families for Safe Streets community.
+
+
+  **[Contact Families for Safe Streets PDX](/contact-us)**
 
 
   ![](/images/uploads/screenshot-2024-07-13-at-7.05.02 pm.jpg)
@@ -22,8 +46,8 @@ content: >-
   ## Link to Victim Resource Guide
 
 
-  Access an extensive Resource Guide covering victims’ rights, legal information, navigating insurance systems, and more. [](https://www.familiesforsafestreets.org/national-resource-guide)[](https://www.familiesforsafestreets.org/national-resource-guide)
+  Access an extensive Resource Guide covering victims’ rights, legal information, navigating insurance systems, and more. 
 
 
-  [](https://www.familiesforsafestreets.org/national-resource-guide)[NATIONAL RESOURCE GUIDE](https://www.familiesforsafestreets.org/national-resource-guide)
+  [NATIONAL RESOURCE GUIDE](https://www.familiesforsafestreets.org/national-resource-guide)
 ---
