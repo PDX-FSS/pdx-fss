@@ -50,6 +50,14 @@ menu:
         url: /get-support
       - text: Peer Mentorship
         url: /peer-mentorship
+  - text: Remember
+    links:
+      - text: Victims' Memorial
+        url: /victims
+      - text: Memorial Projects
+        url: /projects
+      - text: World Day of Remembrance
+        url: /remember
 ---
 
 <!--TODO: Event Calendar link falls under Get Involved, but are temporarily removed
