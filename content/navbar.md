@@ -18,16 +18,14 @@ menu:
         url: /contact-us
       - text: In The News
         url: /in-the-news
-  - text: Safe Streets Now
+  - text: Why Safe Streets Matter
     links:
       - text: Why it Matters
         url: /why-it-matters
       - text: Our Approach
         url: /our-approach
-      - text: High Crash Corridor
+      - text: Where Crashes Happen
         url: /dangerous-areas
-      - text: Hot Topics
-        url: /hot-topics
   - text: Get Involved
     links:
       - text: Take Action
