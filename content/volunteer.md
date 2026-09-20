@@ -34,7 +34,7 @@ content: >-
   Help make the voices of people affected by traffic violence heard. Opportunities may include providing testimony, contacting public officials, attending public meetings, supporting advocacy campaigns, and helping community members understand proposed transportation policies.
 
 
-  **[See our policy and legislative priorities](/legislative)**
+  **[See our policy and legislative priorities](/legislation)**
 
 
   ## Other Ways to Help
