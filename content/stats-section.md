@@ -1,10 +1,11 @@
 ---
 image: /images/uploads/fallon.smart2.jpg
 heading: The faces behind the statistics
-subheading: Human lives needlessly lost in preventable crashes on Portland roads
-text: The Families for Safe Streets Portland online memorial project honors and
-  remembers lives lost to vehicle crashes and those who have suffered
-  life-changing injuries on the streets of Portland, Oregon.
+subheading: Human lives needlessly lost in preventable crashes on Portland streets.
+text: The Portland Victims' Memorial honors and remembers people whose lives
+  have been lost in traffic crashes on Portland streets. Through their names,
+  photographs, and stories, we remember the people behind the statistics and the
+  families, friends, and communities forever changed by traffic violence.
 cta: Victims' Memorial
 ctaLink: /victims
 ---
