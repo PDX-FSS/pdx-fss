@@ -19,7 +19,7 @@ content: >-
   ## World Day of Remembrance
 
 
-  Each year, Families for Safe Streets PDX joins communities around the world in observing the World Day of Remembrance for Road Traffic Victims.
+  Each year, Families for Safe Streets PDX joins communities around the world in observing the World Day of Remembrance for Road Traffic Victims on the third Sunday in November.
 
 
   Volunteers can help plan and support Portland's observance, including event preparation, outreach, and activities on the day of the event.
