@@ -43,7 +43,7 @@ content: >-
   Our volunteer needs change throughout the year. We may need help with community events, outreach, communications, research, memorial projects, and other activities.
 
 
-  Interested in volunteering? **[Contact us](/contact)** and tell us about how you'd like to get involved.
+  Interested in volunteering? **[Contact us](/contact-us)** and tell us about how you'd like to get involved.
 metaDescription: Join volunteer opportunities such as the road memorial project,
   world day of remembrance and testimony.
 metaImage: /images/support.jpg
