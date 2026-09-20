@@ -18,6 +18,14 @@ menu:
         url: /contact-us
       - text: In The News
         url: /in-the-news
+  - text: Remember
+    links:
+      - text: Victims' Memorial
+        url: /victims
+      - text: Memorial Projects
+        url: /projects
+      - text: World Day of Remembrance
+        url: /remember
   - text: Why Safe Streets Matter
     links:
       - text: Why it Matters
@@ -38,14 +46,6 @@ menu:
     links:
       - text: Get Support
         url: /get-support
-  - text: Remember
-    links:
-      - text: Victims' Memorial
-        url: /victims
-      - text: Memorial Projects
-        url: /projects
-      - text: World Day of Remembrance
-        url: /remember
 ---
 
 <!--TODO: Event Calendar link falls under Get Involved, but are temporarily removed
