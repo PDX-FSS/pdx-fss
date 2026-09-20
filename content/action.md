@@ -31,7 +31,7 @@ content: >-
   Throughout the year, Families for Safe Streets PDX advocates for safer street design, effective transportation policies, and legislation that can save lives.
 
 
-  **[See our current policy and legislative priorities](/legislative)**
+  **[See our current policy and legislative priorities](/legislation)**
 
 
   ## Volunteer
