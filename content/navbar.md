@@ -12,8 +12,6 @@ menu:
         url: /history
       - text: Board of Directors
         url: /board-of-directors
-      - text: Projects
-        url: /projects
       - text: Contact Us
         url: /contact-us
       - text: In The News
@@ -26,8 +24,6 @@ menu:
         url: /our-approach
       - text: High Crash Corridor
         url: /dangerous-areas
-      - text: Remembering Victims
-        url: /victims
       - text: Hot Topics
         url: /hot-topics
   - text: Advocacy
@@ -42,8 +38,6 @@ menu:
         url: /action
       - text: Volunteer Opportunities
         url: /volunteer
-      - text: World Day of Remembrance
-        url: /remember
   - text: Services & Support
     links:
       - text: Get Support
