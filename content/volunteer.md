@@ -25,7 +25,7 @@ content: >-
   Volunteers can help plan and support Portland's observance, including event preparation, outreach, and activities on the day of the event.
 
 
-  **Learn about World Day of Remembrance**
+  **[Learn about World Day of Remembrance](/remember)**
 
 
   ## Advocacy and Civic Engagement
@@ -34,7 +34,7 @@ content: >-
   Help make the voices of people affected by traffic violence heard. Opportunities may include providing testimony, contacting public officials, attending public meetings, supporting advocacy campaigns, and helping community members understand proposed transportation policies.
 
 
-  **See our policy and legislative priorities**
+  **[See our policy and legislative priorities](/legislative)**
 
 
   ## Other Ways to Help
@@ -43,7 +43,7 @@ content: >-
   Our volunteer needs change throughout the year. We may need help with community events, outreach, communications, research, memorial projects, and other activities.
 
 
-  Interested in volunteering? **Contact us** and tell us about how you'd like to get involved.
+  Interested in volunteering? **[Contact us](/contact)** and tell us about how you'd like to get involved.
 metaDescription: Join volunteer opportunities such as the road memorial project,
   world day of remembrance and testimony.
 metaImage: /images/support.jpg
