@@ -22,7 +22,7 @@ content: >-
   Contact us at info@PDXFSS.org to learn more and get involved.
 
 
-  ![Sunday, November 15, 2026. Time and location forthcoming Remember our loved ones who have been killed in traffic violence; Support survivors; Act to pass #StopSuperSpeeders legislation in Oregon](/images/uploads/world-day-of-remembrance-16.jpg)
+  ![Sunday, November 15, 2026. Time and location forthcoming Remember our loved ones who have been killed in traffic violence; Support survivors; Act to pass #StopSuperSpeeders legislation in Oregon](/images/uploads/world-day-of-remembrance-10.jpg)
 metaDescription: World Day of Remembrance on November 16 honors lives lost and
   touched by roadway crashes, with a global call for action to prevent road
   violence and support impacted families and communities.
