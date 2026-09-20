@@ -4,30 +4,44 @@ content: >-
   # Volunteer
 
 
+  There are many ways to contribute to the work of Families for Safe Streets PDX. Volunteers help us remember people affected by traffic violence, advocate for safer streets, organize events, and strengthen our community.
 
 
-  ## Road memorial project
+  You don't need to be a transportation expert or have previous advocacy experience. If you care about preventing traffic deaths and serious injuries, we welcome your involvement.
 
 
+  ## Memorial Projects
 
 
-  Join Families for Safe Streets in placing memorials at crash sites throughout Portland to honors victims and draws attention to Portland’s wide-spread road safety crisis.
+  Help us honor people killed in traffic crashes through memorial projects across Portland. Volunteers may assist with memorial signs, ghost bikes, the Portland Victims' Memorial, and other remembrance efforts that ensure people are remembered as individuals—not statistics.
 
 
   ## World Day of Remembrance
 
 
+  Each year, Families for Safe Streets PDX joins communities around the world in observing the World Day of Remembrance for Road Traffic Victims.
 
 
-  Help plan this year’s World Day of Remembrance (WDOR) event, on November 16, 2025, along with other street safety organizations, elected officials, and local leaders. The World Day of Remembrance acknowledges the widespread suffering inflicted on the victims’ families and communities. The World Day of Remembrance offers an opportunity to demonstrate the enormous scale and impact of road violence and call for coordinated action to stop the carnage.
+  Volunteers can help plan and support Portland's observance, including event preparation, outreach, and activities on the day of the event.
 
 
-  ## Testimony and Civic Engagement
+  **Learn about World Day of Remembrance**
 
 
+  ## Advocacy and Civic Engagement
 
 
-  Join the conversation. Speak out for safe roads.
-metaDescription: Join volunteer opportunities such as the road memorial project, world day of remembrance and testimony.
+  Help make the voices of people affected by traffic violence heard. Opportunities may include providing testimony, contacting public officials, attending public meetings, supporting advocacy campaigns, and helping community members understand proposed transportation policies.
+
+
+  ## Other Ways to Help
+
+
+  Our volunteer needs change throughout the year. We may need help with community events, outreach, communications, research, memorial projects, and other activities.
+
+
+  Interested in volunteering? Contact us and tell us about how you'd like to get involved.
+metaDescription: Join volunteer opportunities such as the road memorial project,
+  world day of remembrance and testimony.
 metaImage: /images/support.jpg
 ---
