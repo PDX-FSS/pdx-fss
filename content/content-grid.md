@@ -2,8 +2,8 @@
 cardData:
   - image: /images/uploads/world-day-of-remembrance-7.jpg
     heading: Get Support
-    text: No one should endure the physical and emotional trauma of traffic violence
-      alone. Resources for those directly impacted by road violence.
+    text: No one should endure the physical and emotional impact of traffic violence
+      alone. Resources and support for crash victims are available.
     cta: Get Support
     ctaLink: /get-support
   - image: /images/uploads/41-ne-lombard-and-42ndb-copy.jpeg
