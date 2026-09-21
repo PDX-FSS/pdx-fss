@@ -4,7 +4,7 @@ content: >-
   # Our Approach
 
 
-  ## The Safe Systems Approach
+  ## The Safe System Approach
 
 
   Traffic deaths and serious injuries are preventable. Families for Safe Streets supports the **Safe System Approach**, a framework for creating a transportation system in which safety is the highest priority.
@@ -18,25 +18,23 @@ content: >-
 
   1. **Safer Roads**
 
-      — Designing streets and intersections to reduce the likelihood and severity of crashes and to protect people of all ages and abilities.
+     — Designing streets and intersections to reduce the likelihood and severity of crashes and to protect people of all ages and abilities.
   2. **Safer Speeds**
 
-      — Managing vehicle speeds so they are appropriate for the surrounding environment and reduce the risk of death or serious injury when crashes occur.
+     — Managing vehicle speeds so they are appropriate for the surrounding environment and reduce the risk of death or serious injury when crashes occur.
   3. **Safer Vehicles**
 
-      — Using vehicle design and technology to help prevent crashes and protect both people inside and outside vehicles.
+     — Using vehicle design and technology to help prevent crashes and protect both people inside and outside vehicles.
   4. **Safer People**
 
-      — Creating conditions that encourage safer behavior by everyone who uses the transportation system.
+     — Creating conditions that encourage safer behavior by everyone who uses the transportation system.
   5. **Post-Crash Care**
 
-      — Improving emergency response and medical care after crashes while protecting first responders and reducing the risk of additional crashes.
+     — Improving emergency response and medical care after crashes while protecting first responders and reducing the risk of additional crashes.
 
-  Together, these elements create a transportation system that anticipates human mistakes and provides multiple opportunities to prevent those mistakes from becoming tragedies.\
+     Together, these elements create a transportation system that anticipates human mistakes and provides multiple opportunities to prevent those mistakes from becoming tragedies. 
 
-  \
-
-  The Safe Systems Pyramid
+  ## The Safe Systems Pyramid
 
 
   The Safe System Approach tells us that preventing traffic deaths requires multiple layers of protection. The **Safe Systems Pyramid** provides another useful way to think about which safety strategies can have the greatest impact.
@@ -60,10 +58,7 @@ content: >-
   For a deeper look at the way we think about crashes, responsibility, and prevention, watch this presentation by Jessie Singer, author of *There Are No Accidents*.
 
 
-  <img src="/images/uploads/headshot-final-web.jpg" alt="Description" style="float: left; margin-right: 15px; width: 20%;">
-
-
-  Dive deeper into safety science via this insightful video by safety expert and author of There are No Accidents, Jessie Singer:
+  <img src="/images/uploads/headshot-final-web.jpg" alt="Jessie Singer" style="float: left; margin-right: 15px; width: 20%;">
 
 
   <p style="clear: both;">
