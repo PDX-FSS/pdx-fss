@@ -22,10 +22,10 @@ cardData:
     ctaLink: /action
   - image: /images/uploads/world-day-of-remembrance-10.jpg
     heading: World Day of Remembrance
-    text: Honoring all who have lost their lives or have been directly impacted by
-      roadway crashes. This global UN Sponsored Day of Remembrance acknowledges
-      the widespread suffering inflicted on the victims' families and
-      communities.
+    text: Each year, communities around the world remember people killed and
+      seriously injured in traffic crashes and honor the families, friends, and
+      communities affected by these tragedies. Join us for Portland's observance
+      of the World Day of Remembrance for Road Traffic Victims.
     cta: Join Us
     ctaLink: /remember
 ---
