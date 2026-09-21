@@ -10,7 +10,7 @@ content: >-
   The Portland Bureau of Transportation identifies the streets and intersections with the highest concentrations of serious crashes as the **High Crash Network**.
 
 
-  The network includes 30 streets and 30 intersections. Although these streets make up only about 8% of Portland's street network, they accounted for an average of 67% of traffic deaths from 2020 through 2024.
+  The High Crash Network represents only about 8% of Portland streets, yet an average of 67% of Portland's traffic deaths occurred on the network from 2020 through 2024.
 
 
   Many of these streets are wide, fast, multilane roadways that can be particularly dangerous for people walking, biking, or crossing the street. The burden of traffic violence also falls disproportionately on some Portland communities, making street safety an issue of equity as well as transportation.
@@ -25,7 +25,7 @@ content: >-
   Image from <https://www.portland.gov/transportation/vision-zero/high-crash-network-streets-and-intersections>
 
 
-  ![Map of Portland's High Crash Network](/images/uploads/dangerous_areas.png "Portland High Crash Network")
+  ![Map of Portland's High Crash Network showing streets and intersections with high concentrations of serious crashes](/images/uploads/dangerous_areas.png "Portland High Crash Network")
 
 
   [](https://www.portland.gov/transportation/vision-zero/high-crash-network-streets-and-intersections)[](https://www.portland.gov/transportation/vision-zero/high-crash-network-streets-and-intersections)
