@@ -16,8 +16,9 @@ cardData:
     ctaLink: /donate
   - image: /images/uploads/take-action.jpg
     heading: Take Action
-    text: There are many many ways to help and get involved. Please join us in
-      fighting for safe streets for all.
+    text: There are many ways to get involved and help create safer streets. Join
+      Families for Safe Streets PDX through advocacy, volunteering, remembrance,
+      and other opportunities to make a difference.
     cta: Learn More
     ctaLink: /action
   - image: /images/uploads/world-day-of-remembrance-10.jpg
