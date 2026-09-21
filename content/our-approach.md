@@ -16,23 +16,23 @@ content: >-
   The approach includes five interconnected elements:
 
 
-  1. **Safer Roads**
+  1. **Safer Roads** — Designing streets and intersections to reduce the likelihood and severity of crashes and to protect people of all ages and abilities.
 
-     — Designing streets and intersections to reduce the likelihood and severity of crashes and to protect people of all ages and abilities.
-  2. **Safer Speeds**
 
-     — Managing vehicle speeds so they are appropriate for the surrounding environment and reduce the risk of death or serious injury when crashes occur.
-  3. **Safer Vehicles**
+  2. **Safer Speeds** — Managing vehicle speeds so they are appropriate for the surrounding environment and reduce the risk of death or serious injury when crashes occur.
 
-     — Using vehicle design and technology to help prevent crashes and protect both people inside and outside vehicles.
-  4. **Safer People**
 
-     — Creating conditions that encourage safer behavior by everyone who uses the transportation system.
-  5. **Post-Crash Care**
+  3. **Safer Vehicles** — Using vehicle design and technology to help prevent crashes and protect both people inside and outside vehicles.
 
-     — Improving emergency response and medical care after crashes while protecting first responders and reducing the risk of additional crashes.
 
-     Together, these elements create a transportation system that anticipates human mistakes and provides multiple opportunities to prevent those mistakes from becoming tragedies. 
+  4. **Safer People** — Creating conditions that encourage safer behavior by everyone who uses the transportation system.
+
+
+  5. **Post-Crash Care** — Improving emergency response and medical care after crashes while protecting first responders and reducing the risk of additional crashes.
+
+
+  Together, these elements create a transportation system that anticipates human mistakes and provides multiple opportunities to prevent those mistakes from becoming tragedies. 
+
 
   ## The Safe Systems Pyramid
 
