@@ -24,10 +24,10 @@ export async function getStaticProps() {
 
   return {
     props: {
-      title: data.title,
-      content: data.content,
-      metaDescription: data.metaDescription,
-      metaImage: data.metaImage,
+      title: data.title ?? null,
+      content: data.content ?? null,
+      metaDescription: data.metaDescription ?? null,
+      metaImage: data.metaImage ?? null,
       ...commonProps,
     },
   };
