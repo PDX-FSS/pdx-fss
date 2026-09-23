@@ -38,6 +38,8 @@ menu:
     links:
       - text: Take Action
         url: /action
+      - text: Stop Super Speeders
+        url: /stop-super-speeders
       - text: Volunteer Opportunities
         url: /volunteer
       - text: Policy and Legislation
