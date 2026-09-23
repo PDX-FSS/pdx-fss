@@ -248,6 +248,15 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
+
+      - file: "content/stop-super-speeders.md"
+        label: "Stop Super Speeders Oregon"
+        name: "stop-super-speeders"
+        preview_path: "stop-super-speeders"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
   - name: "get involved pages"
     label: "Get Involved Pages"
     files:
