@@ -1,5 +1,6 @@
 import { getCommonPageProps } from "../utils/getPageProps";
 import ContentPageLayout from "../components/ContentPageLayout";
+import StopSuperSpeedersEndorsementForm from "../components/StopSuperSpeedersEndorsementForm";
 import getStaticPropsData from "../utils/getStaticPropsHelper";
 
 export default function StopSuperSpeeders({
@@ -14,7 +15,9 @@ export default function StopSuperSpeeders({
       content={content}
       description={metaDescription}
       image={metaImage}
-    />
+    >
+      <StopSuperSpeedersEndorsementForm />
+    </ContentPageLayout>
   );
 }
 
