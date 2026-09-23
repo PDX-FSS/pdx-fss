@@ -2,7 +2,7 @@
 title: "Portland Victims' Memorial: Human Lives are More Than Statistics. "
 intro: >-
   The Portland Victims' Memorial honors people who have been killed in traffic
-  crashes on Portland streets. Through their names, photographs, and stories, we
+  crashes in Portland. Through their names, photographs, and stories, we
   remember the lives behind the statistics and the families, friends, and
   communities forever changed by traffic violence.
 
