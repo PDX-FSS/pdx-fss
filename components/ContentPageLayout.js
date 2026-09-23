@@ -8,6 +8,7 @@ export default function ContentPageLayout({
   content,
   description,
   image,
+  children,
 }) {
   const router = useRouter();
 
@@ -26,6 +27,7 @@ export default function ContentPageLayout({
               <ReactMarkdown rehypePlugins={[rehypeRaw]}>
                 {content}
               </ReactMarkdown>
+              {children}
             </div>
           </section>
         </div>
