@@ -183,7 +183,7 @@ export default function StopSuperSpeedersEndorsementForm() {
 
       {status === "success" && (
         <p className="font-semibold">
-          Thank you. Your organization's endorsement has been submitted for
+          Thank you. Your organization&apos;s endorsement has been submitted for
           review. Families for Safe Streets PDX may contact you if we need to
           confirm any information.
         </p>
@@ -191,7 +191,7 @@ export default function StopSuperSpeedersEndorsementForm() {
 
       {status === "error" && (
         <p className="font-semibold">
-          We weren't able to submit your endorsement. Please try again.
+          We weren&apos;t able to submit your endorsement. Please try again.
         </p>
       )}
     </form>
