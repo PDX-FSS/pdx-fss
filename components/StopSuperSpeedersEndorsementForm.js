@@ -16,7 +16,7 @@ export default function StopSuperSpeedersEndorsementForm() {
     });
 
     try {
-      const response = await fetch("/__forms.html", {
+      const response = await fetch("/", {
         method: "POST",
         headers: {
           "Content-Type": "application/x-www-form-urlencoded",
@@ -37,6 +37,7 @@ export default function StopSuperSpeedersEndorsementForm() {
     <form
       name="stop-super-speeders-endorsement"
       method="POST"
+      data-netlify="true"
       onSubmit={handleSubmit}
       className="space-y-6 mt-8"
     >
