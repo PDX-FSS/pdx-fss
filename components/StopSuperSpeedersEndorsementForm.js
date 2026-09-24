@@ -9,6 +9,11 @@ export default function StopSuperSpeedersEndorsementForm() {
 
     const form = event.currentTarget;
     const formData = new FormData(form);
+    const formObject = {};
+
+    formData.forEach((value, key) => {
+      formObject[key] = value.toString();
+    });
 
     try {
       const response = await fetch("/__forms.html", {
@@ -16,7 +21,7 @@ export default function StopSuperSpeedersEndorsementForm() {
         headers: {
           "Content-Type": "application/x-www-form-urlencoded",
         },
-        body: new URLSearchParams(formData).toString(),
+        body: new URLSearchParams(formObject).toString(),
       });
 
       if (!response.ok) throw new Error("Submission failed");
