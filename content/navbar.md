@@ -22,6 +22,8 @@ menu:
     links:
       - text: Victims' Memorial
         url: /victims
+      - text: Fatality Tracker
+        url: /fatality-tracker
       - text: Memorial Projects
         url: /projects
       - text: World Day of Remembrance
