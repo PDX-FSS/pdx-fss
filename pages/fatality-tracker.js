@@ -30,7 +30,10 @@ export default function FatalityTracker({ fatalities }) {
     <div className="min-h-screen flex flex-col">
       <Meta
         title="Portland Traffic Fatality Tracker"
-        description="A person-centered record of people killed in transportation crashes on Portland streets and transportation facilities."
+        description={
+          "A person-centered record of people killed in transportation crashes " +
+          "on Portland streets and transportation facilities."
+        }
       />
 
       <main className="flex-1 bg-white">
