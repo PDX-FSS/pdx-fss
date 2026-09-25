@@ -441,7 +441,66 @@ collections:
           widget: "markdown",
           required: true,
         }
-
+        
+# Collection: Fatality Tracker
+  - name: "fatalities"
+    label: "Fatality Tracker"
+    folder: "content/fatalities"
+    create: true
+    slug: "{{date}}-{{name}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string", required: true }
+      - { label: "Age", name: "age", widget: "string", required: true }
+      - {
+          label: "Crash Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          required: true,
+        }
+      - {
+          label: "Travel Mode",
+          name: "travelMode",
+          widget: "select",
+          options: ["Pedestrian", "Bicycle", "Motorcycle", "Vehicle"],
+          required: true,
+        }
+      - {
+          label: "Location",
+          name: "location",
+          widget: "string",
+          required: true,
+        }
+      - {
+          label: "District",
+          name: "district",
+          widget: "select",
+          options: ["1", "2", "3", "4"],
+          required: true,
+        }
+      - {
+          label: "Light Conditions",
+          name: "lightConditions",
+          widget: "select",
+          options: ["Daylight", "Dark", "Dawn/Dusk"],
+          required: true,
+        }
+      - {
+          label: "Internal Notes",
+          name: "notes",
+          widget: "text",
+          required: false,
+          hint: "For internal research notes. Not displayed on the public tracker.",
+        }
+      - {
+          label: "Source",
+          name: "source",
+          widget: "string",
+          required: false,
+          hint: "Optional source URL or source description. Not displayed on the public tracker.",
+        }
+        
   - name: "test page"
     label: "Test Page"
     files:
