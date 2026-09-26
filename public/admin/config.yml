@@ -81,6 +81,23 @@ collections:
                 fields:
                   - { label: "Link Text", name: "text", widget: "string" }
                   - { label: "Link URL", name: "url", widget: "string" }
+      # Fatality Tracker page text
+      - file: "content/fatality-tracker-content.md"
+        label: "Fatality Tracker Page Text"
+        name: "fatality-tracker-content"
+        fields:
+          - label: "Introduction"
+            name: "introduction"
+            widget: "text"
+          - label: "Data Status"
+            name: "dataStatus"
+            widget: "string"
+          - label: "About Our Data"
+            name: "methodology"
+            widget: "text"
+          - label: "Methodology Note"
+            name: "methodologyNote"
+            widget: "text"
 
   # Sections related to Home Page
   # Collection: Home Page
@@ -463,7 +480,7 @@ collections:
           label: "Travel Mode",
           name: "travelMode",
           widget: "select",
-          options: ["Pedestrian", "Bicycle", "Motorcycle", "Vehicle"],
+          options: ["Pedestrian", "Bicycle", "Scooter", "Motorcycle", "Vehicle"],
           required: true,
         }
       - {
