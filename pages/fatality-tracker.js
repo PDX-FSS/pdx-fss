@@ -4,7 +4,7 @@ import matter from "gray-matter";
 import { Meta } from "../components/Meta";
 import { getCommonPageProps } from "../utils/getPageProps";
 
-export default function FatalityTracker({ fatalities }) {
+export default function FatalityTracker({ fatalities, pageText }) {
   const year = 2026;
 
   const formatCrashDate = (date) => {
@@ -43,9 +43,7 @@ export default function FatalityTracker({ fatalities }) {
           </h1>
 
           <p className="text-lg text-gray-700 leading-relaxed mb-8">
-            Families for Safe Streets PDX maintains this tracker as a
-            person-centered record of people killed in transportation crashes
-            on Portland streets and transportation facilities.
+            {pageText.introduction}
           </p>
 
           <div className="bg-gray-50 rounded-lg p-6 mb-8">
@@ -54,7 +52,7 @@ export default function FatalityTracker({ fatalities }) {
               so far in {year}.
             </p>
             <p className="text-sm text-gray-600 mt-2">
-              Preliminary data
+              {pageText.dataStatus}
             </p>
           </div>
 
@@ -146,20 +144,11 @@ export default function FatalityTracker({ fatalities }) {
             </h2>
 
             <p className="text-gray-700 leading-relaxed mb-4">
-              Families for Safe Streets PDX tracks people who die as a result
-              of transportation crashes on Portland streets and transportation
-              facilities. This includes crashes involving motor vehicles,
-              motorcycles, bicycles, pedestrians, buses, and rail transit, as
-              well as single-vehicle and single-bicycle crashes. We do not
-              include deaths caused solely by medical events or other causes
-              unrelated to a crash.
+              {pageText.methodology}
             </p>
 
             <p className="text-gray-700 leading-relaxed">
-              Our totals may differ from official government traffic-fatality
-              statistics because government agencies use specific reporting
-              definitions that may exclude some deaths included in the
-              Families for Safe Streets PDX tracker.
+              {pageText.methodologyNote}
             </p>
           </section>
         </div>
@@ -197,12 +186,22 @@ export async function getStaticProps() {
     })
     .filter((fatality) => fatality.date.startsWith("2026-"))
     .sort((a, b) => b.date.localeCompare(a.date));
+  
+  const pageTextPath = path.join(
+    process.cwd(),
+    "content",
+    "fatality-tracker-content.md",
+  );
 
+  const pageTextFile = fs.readFileSync(pageTextPath, "utf8");
+  const { data: pageText } = matter(pageTextFile);
+  
   const commonProps = await getCommonPageProps();
 
   return {
     props: {
       fatalities,
+      pageText,
       ...commonProps,
     },
   };
