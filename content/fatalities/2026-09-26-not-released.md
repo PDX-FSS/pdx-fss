@@ -1,9 +1,9 @@
 ---
-name: Not released
-age: Not Released
+name: Not Released
+age: Unknown
 date: 2026-09-26
 travelMode: Vehicle
-location: West Burnside and SW Barnes Road
+location: West Burnside & SW Barnes Road
 district: "4"
 lightConditions: Dark
 ---
