@@ -176,7 +176,9 @@ export async function getStaticProps() {
       return {
         name: String(data.name || ""),
         age: String(data.age || ""),
-        date: String(data.date || ""),
+        date: data.date instanceof Date
+          ? data.date.toISOString().slice(0, 10)
+          : String(data.date || "").slice(0, 10),
         travelMode: String(data.travelMode || ""),
         location: String(data.location || ""),
         district: String(data.district || ""),
