@@ -1,12 +1,14 @@
 ---
 title: Stop Super Speeders Oregon
 content: >-
-  **Oregon has the opportunity to stop the most dangerous repeat speeders before
-  another life is lost.**
+  ###### Oregon has the opportunity to stop the most dangerous repeat speeders
+  before another life is lost.
+
+
 
   Families for Safe Streets PDX is working to enact **Stop Super Speeders legislation in Oregon during the 2027 legislative session.**
 
-  Stop Super Speeders is a targeted approach to dangerous driving that uses *Intelligent Speed Assistance (ISA)* technology to prevent repeat and extremely dangerous speeders from continuing to drive at deadly speeds. This matters for many important reasons. *Stop Super Speeders* legislation will **improve road safety** by reducing death and injury from reckless driving incidents. It will **close policy gaps** by addressing the lack of enforcement for repeat offenders. It will **convey urgency to act**. Traffic-related deaths and serioius injuries have been on the rise in Oregon.
+  Stop Super Speeders is a targeted approach to dangerous driving that uses *Intelligent Speed Assistance (ISA)* technology to prevent repeat and extremely dangerous speeders from continuing to drive at deadly speeds. This matters for many important reasons. *Stop Super Speeders* legislation will **improve road safety** by reducing death and injury from reckless driving incidents. It will **close policy gaps** by addressing the lack of enforcement for repeat offenders. And it will **convey urgency to act**. Traffic-related deaths and serious injuries have been on the rise in Oregon.
 
 
   ## What Is a Super Speeder?
