@@ -6,6 +6,9 @@ content: >-
 
 
 
+  ![Stop Super Speeders graphic showing a speedometer and a person pulling back the needle](/images/uploads/stopsuperspeeders.jpg)
+
+
   Families for Safe Streets PDX is working to enact **Stop Super Speeders legislation in Oregon during the 2027 legislative session.**
 
   Stop Super Speeders is a targeted approach to dangerous driving that uses *Intelligent Speed Assistance (ISA)* technology to prevent repeat and extremely dangerous speeders from continuing to drive at deadly speeds. This matters for many important reasons. *Stop Super Speeders* legislation will **improve road safety** by reducing death and injury from reckless driving incidents. It will **close policy gaps** by addressing the lack of enforcement for repeat offenders. And it will **convey urgency to act**. Traffic-related deaths and serious injuries have been on the rise in Oregon.
