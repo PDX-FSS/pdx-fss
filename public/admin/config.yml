@@ -145,7 +145,7 @@ collections:
               - { label: "CTA Link", name: "ctaLink", widget: "string" }
 
   # Main Navigation Sections
-  # Collection: About Us (Organization, Mission, History, Board, Projects, Contact Us, In the News)
+  # Collection: About Us (Organization, Mission, History, Board, Partners, Contact Us, In the News)
   - name: "about us pages"
     label: "About Us Pages"
     files:
@@ -358,7 +358,7 @@ collections:
             }
 
   # Collection: Why Safe Streets Matter (why it matters, our approach, dangerous areas)
-  - name: "why-matter"
+  - name: "why safe streets matter"
     label: "Why Safe Streets Matter"
     files:
       - file: "content/why-it-matters.md"
@@ -383,7 +383,7 @@ collections:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
 
-  # Collection: Get Involved (action, stop super spreaders, volunteer, legislation)
+  # Collection: Get Involved (action, stop super speeders, volunteer, legislation)
   - name: "get involved pages"
     label: "Get Involved Pages"
     files:
