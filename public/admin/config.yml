@@ -145,7 +145,7 @@ collections:
               - { label: "CTA Link", name: "ctaLink", widget: "string" }
 
   # Main Navigation Sections
-  # Collection: About Us, Safe Streets Now, Advocacy, Get Involved, Services & Support
+  # Collection: About Us (Organization, Mission, History, Board, Partners, Contact Us, In the News)
   - name: "about us pages"
     label: "About Us Pages"
     files:
@@ -177,10 +177,10 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
-      - file: "content/projects.md"
-        label: "Projects"
-        name: "projects"
-        preview_path: "projects"
+      - file: "content/partners.md"
+        label: "Our Partners Page"
+        name: "partners"
+        preview_path: "partners"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
@@ -198,8 +198,168 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
-  - name: "safe streets now pages"
-    label: "Safe Streets Now Pages"
+
+  # Collections: Victims Data
+  - name: "victims"
+    label: "Victims"
+    folder: "content/victims"
+    create: true
+    slug: "{{name}}-{{date}}"
+    preview_path: "victims"
+    fields:
+      - { label: "Name", name: "name", widget: "string", required: true }
+      - { label: "Age", name: "age", widget: "number", required: true }
+      - {
+          label: "Victim Type",
+          name: "victimType",
+          widget: "select",
+          options: ["Pedestrian", "Bicyclist", "Motorcyclist", "Driver"],
+          required: true,
+        }
+      - {
+          label: "Location",
+          name: "location",
+          widget: "string",
+          required: true,
+        }
+      - {
+          label: "Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "MM/DD/YYYY",
+          time_format: false,
+          required: true,
+        }
+      - {
+          label: "Time",
+          name: "time",
+          widget: "datetime",
+          date_format: false,
+          time_format: "HH:mm",
+          required: true,
+        }
+      - { label: "Photo Credit", name: "photoCredit", widget: "string" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - {
+          label: "Description",
+          name: "body",
+          widget: "markdown",
+          required: true,
+        }
+
+  # Collection: Fatality Tracker
+  - name: "fatalities"
+    label: "Fatality Tracker"
+    folder: "content/fatalities"
+    create: true
+    slug: "{{date}}-{{name}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string", required: true }
+      - { label: "Age", name: "age", widget: "string", required: true }
+      - {
+          label: "Crash Date",
+          name: "date",
+          widget: "datetime",
+          date_format: "YYYY-MM-DD",
+          time_format: false,
+          required: true,
+        }
+      - {
+          label: "Travel Mode",
+          name: "travelMode",
+          widget: "select",
+          options:
+            ["Pedestrian", "Bicycle", "Scooter", "Motorcycle", "Vehicle"],
+          required: true,
+        }
+      - {
+          label: "Location",
+          name: "location",
+          widget: "string",
+          required: true,
+        }
+      - {
+          label: "District",
+          name: "district",
+          widget: "select",
+          options: ["1", "2", "3", "4"],
+          required: true,
+        }
+      - {
+          label: "Light Conditions",
+          name: "lightConditions",
+          widget: "select",
+          options: ["Daylight", "Dark", "Dawn/Dusk"],
+          required: true,
+        }
+      - {
+          label: "Internal Notes",
+          name: "notes",
+          widget: "text",
+          required: false,
+          hint: "For internal research notes. Not displayed on the public tracker.",
+        }
+      - {
+          label: "Source",
+          name: "source",
+          widget: "string",
+          required: false,
+          hint: "Optional source URL or source description. Not displayed on the public tracker.",
+        }
+
+  # Collection: Remember (Victims Memorial, Memorial Projects, Day of Remembrance)
+  - name: "remember"
+    label: "Remember"
+    files:
+      - file: "content/victims-content.md"
+        label: "Victims Main Page"
+        name: "victims-content"
+        preview_path: "victims"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Intro", name: "intro", widget: "markdown" }
+          - {
+              label: "Meta Description",
+              name: "metaDescription",
+              widget: "string",
+              hint: "SEO description for search results (150-160 characters)",
+            }
+          - {
+              label: "Social Share Image",
+              name: "metaImage",
+              widget: "image",
+              hint: "Image for social media previews (1200x630px recommended)",
+            }
+      - file: "content/projects.md"
+        label: "Projects"
+        name: "projects"
+        preview_path: "projects"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+      - file: "content/remember.md"
+        label: "Day of Remembrance Page"
+        name: "remember"
+        preview_path: "remember"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+          - {
+              label: "Meta Description",
+              name: "metaDescription",
+              widget: "string",
+              hint: "SEO description for search results (150-160 characters)",
+            }
+          - {
+              label: "Social Share Image",
+              name: "metaImage",
+              widget: "image",
+              hint: "Image for social media previews (1200x630px recommended)",
+            }
+
+  # Collection: Why Safe Streets Matter (why it matters, our approach, dangerous areas)
+  - name: "why safe streets matter"
+    label: "Why Safe Streets Matter"
     files:
       - file: "content/why-it-matters.md"
         label: "Why It Matters Page"
@@ -222,58 +382,8 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
-      - file: "content/victims-content.md"
-        label: "Victims Main Page"
-        name: "victims-content"
-        preview_path: "victims"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Intro", name: "intro", widget: "markdown" }
-          - {
-              label: "Meta Description",
-              name: "metaDescription",
-              widget: "string",
-              hint: "SEO description for search results (150-160 characters)",
-            }
-          - {
-              label: "Social Share Image",
-              name: "metaImage",
-              widget: "image",
-              hint: "Image for social media previews (1200x630px recommended)",
-            }
-      - file: "content/hot-topics.md"
-        label: "Hot Topics Page"
-        name: "hot-topics"
-        preview_path: "hot-topics"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "content", widget: "markdown" }
-  - name: "advocacy pages"
-    label: "Advocacy Pages"
-    files:
-      - file: "content/legislation.md"
-        label: "Legislation Page"
-        name: "legislation"
-        preview_path: "legislation"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "content", widget: "markdown" }
-      - file: "content/partners.md"
-        label: "Our Partners Page"
-        name: "partners"
-        preview_path: "partners"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "content", widget: "markdown" }
 
-      - file: "content/stop-super-speeders.md"
-        label: "Stop Super Speeders Oregon"
-        name: "stop-super-speeders"
-        preview_path: "stop-super-speeders"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Content", name: "content", widget: "markdown" }
-          - { label: "Meta Description", name: "metaDescription", widget: "text", required: false }
+  # Collection: Get Involved (action, stop super speeders, volunteer, legislation)
   - name: "get involved pages"
     label: "Get Involved Pages"
     files:
@@ -296,6 +406,19 @@ collections:
               widget: "image",
               hint: "Image for social media previews (1200x630px recommended)",
             }
+      - file: "content/stop-super-speeders.md"
+        label: "Stop Super Speeders Oregon"
+        name: "stop-super-speeders"
+        preview_path: "stop-super-speeders"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
+          - {
+              label: "Meta Description",
+              name: "metaDescription",
+              widget: "text",
+              required: false,
+            }
       - file: "content/volunteer.md"
         label: "Volunteer Opportunities Page"
         name: "volunteer"
@@ -315,25 +438,15 @@ collections:
               widget: "image",
               hint: "Image for social media previews (1200x630px recommended)",
             }
-      - file: "content/remember.md"
-        label: "Day of Remembrance Page"
-        name: "remember"
-        preview_path: "remember"
+      - file: "content/legislation.md"
+        label: "Legislation Page"
+        name: "legislation"
+        preview_path: "legislation"
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
-          - {
-              label: "Meta Description",
-              name: "metaDescription",
-              widget: "string",
-              hint: "SEO description for search results (150-160 characters)",
-            }
-          - {
-              label: "Social Share Image",
-              name: "metaImage",
-              widget: "image",
-              hint: "Image for social media previews (1200x630px recommended)",
-            }
+
+  # Collection: Services & Support Pages
   - name: "services & support pages"
     label: "Services & Support Pages"
     files:
@@ -351,11 +464,19 @@ collections:
         fields:
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Content", name: "content", widget: "markdown" }
+      # NOTE: Currently empty page/content. TODO: Delete or move to other category
+      - file: "content/hot-topics.md"
+        label: "Hot Topics Page"
+        name: "hot-topics"
+        preview_path: "hot-topics"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Content", name: "content", widget: "markdown" }
 
   # Sections related to the organization navigable via footer
   # Collection: Organization Pages
   - name: "organization pages"
-    label: "Organization Pages"
+    label: "Organization Pages (Footer)"
     files:
       - file: "content/email-signup.md"
         label: "Email Signup Page"
@@ -411,113 +532,6 @@ collections:
       #     - { label: "Title", name: "title", widget: "string" }
       #     - { label: "Content", name: "content", widget: "markdown" }
 
-  # Collection: Victims Page
-  - name: "victims"
-    label: "Victims"
-    folder: "content/victims"
-    create: true
-    slug: "{{name}}-{{date}}"
-    preview_path: "victims"
-    fields:
-      - { label: "Name", name: "name", widget: "string", required: true }
-      - { label: "Age", name: "age", widget: "number", required: true }
-      - {
-          label: "Victim Type",
-          name: "victimType",
-          widget: "select",
-          options: ["Pedestrian", "Bicyclist", "Motorcyclist", "Driver"],
-          required: true,
-        }
-      - {
-          label: "Location",
-          name: "location",
-          widget: "string",
-          required: true,
-        }
-      - {
-          label: "Date",
-          name: "date",
-          widget: "datetime",
-          date_format: "MM/DD/YYYY",
-          time_format: false,
-          required: true,
-        }
-      - {
-          label: "Time",
-          name: "time",
-          widget: "datetime",
-          date_format: false,
-          time_format: "HH:mm",
-          required: true,
-        }
-      - { label: "Photo Credit", name: "photoCredit", widget: "string" }
-      - { label: "Image", name: "image", widget: "image", required: false }
-      - {
-          label: "Description",
-          name: "body",
-          widget: "markdown",
-          required: true,
-        }
-        
-# Collection: Fatality Tracker
-  - name: "fatalities"
-    label: "Fatality Tracker"
-    folder: "content/fatalities"
-    create: true
-    slug: "{{date}}-{{name}}"
-    fields:
-      - { label: "Name", name: "name", widget: "string", required: true }
-      - { label: "Age", name: "age", widget: "string", required: true }
-      - {
-          label: "Crash Date",
-          name: "date",
-          widget: "datetime",
-          date_format: "YYYY-MM-DD",
-          time_format: false,
-          required: true,
-        }
-      - {
-          label: "Travel Mode",
-          name: "travelMode",
-          widget: "select",
-          options: ["Pedestrian", "Bicycle", "Scooter", "Motorcycle", "Vehicle"],
-          required: true,
-        }
-      - {
-          label: "Location",
-          name: "location",
-          widget: "string",
-          required: true,
-        }
-      - {
-          label: "District",
-          name: "district",
-          widget: "select",
-          options: ["1", "2", "3", "4"],
-          required: true,
-        }
-      - {
-          label: "Light Conditions",
-          name: "lightConditions",
-          widget: "select",
-          options: ["Daylight", "Dark", "Dawn/Dusk"],
-          required: true,
-        }
-      - {
-          label: "Internal Notes",
-          name: "notes",
-          widget: "text",
-          required: false,
-          hint: "For internal research notes. Not displayed on the public tracker.",
-        }
-      - {
-          label: "Source",
-          name: "source",
-          widget: "string",
-          required: false,
-          hint: "Optional source URL or source description. Not displayed on the public tracker.",
-        }
-        
   - name: "test page"
     label: "Test Page"
     files:
